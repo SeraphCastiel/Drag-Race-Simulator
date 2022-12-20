@@ -7871,8 +7871,8 @@ let willow = new Queen("Willow Pill", 11, 8, 7, 10, 10, 12, 8, "Willow");
 let us_season14 = [alyssaH, angeria, bosco, daya, deja, jasmineK, jorgeous, june, kerri, kornbread, cadmen, maddy, orion, willow];
 //SEASON 15
 let amethyst = new Queen("Amethyst", 8, 8, 8, 8, 8, 8, 8, "Amethyst");
-let anetra = new Queen("Anetra", 8, 8, 8, 8, 8, 8, 8, "Anetra");
-let auraMayari = new Queen("Aura Mayari", 8, 8, 8, 8, 8, 8, 8, "AuraMayari");
+let anetra = new Queen("Anetra", 9, 9, 9, 9, 9, 9, 9, "Anetra");
+let auraMayari = new Queen("Aura Mayari", 9, 9, 9, 9, 9, 9, 9, "AuraMayari");
 let irene = new Queen("Irene Dubois", 8, 8, 8, 8, 8, 8, 8, "IreneDubois");
 let jax = new Queen("Jax", 8, 8, 8, 8, 8, 8, 8, "Jax");
 let loosey = new Queen("Loosey LaDuca", 8, 8, 8, 8, 8, 8, 8, "LooseyLaDuca");
@@ -7883,9 +7883,9 @@ let mistress = new Queen("Mistress Isabelle Brooks", 8, 8, 8, 8, 8, 8, 8, "Mistr
 let poppy = new Queen("Princess Poppy", 8, 8, 8, 8, 8, 8, 8, "PrincessPoppy");
 let robin = new Queen("Robin Fierce", 8, 8, 8, 8, 8, 8, 8, "RobinFierce");
 let salina = new Queen("Salina EsTitties", 8, 8, 8, 8, 8, 8, 8, "SalinaEsTitties");
-let sashaColby = new Queen("Sasha Colby", 8, 8, 8, 8, 8, 8, 8, "SashaColby");
-let spice = new Queen("Spice", 8, 8, 8, 8, 8, 8, 8, "Spice");
-let sugar = new Queen("Sugar", 8, 8, 8, 8, 8, 8, 8, "Sugar");
+let sashaColby = new Queen("Sasha Colby", 9, 9, 9, 9, 9, 9, 9, "SashaColby");
+let spice = new Queen("Spice", 9, 9, 9, 9, 9, 9, 9, "Spice");
+let sugar = new Queen("Sugar", 9, 9, 9, 9, 9, 9, 9, "Sugar");
 let us_season15 = [amethyst, anetra, auraMayari, irene, jax, loosey, luxx, malaysia, marcia, mistress, poppy, robin, salina, sashaColby, spice, sugar];
 //DRUK SEASON 1 
 let baga = new Queen("Baga Chipz", 13, 12, 5, 5, 13, 8, 7, "Baga");
