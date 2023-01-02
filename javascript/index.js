@@ -8855,7 +8855,7 @@ let us_season14 = [alyssaH, angeria, bosco, daya, deja, jasmineK, jorgeous, june
 //SEASON 15
 let amethyst = new Queen("Amethyst", 8, 8, 8, 8, 8, 8, 8, "Amethyst");
 let anetra = new Queen("Anetra", 9, 9, 9, 9, 9, 9, 9, "Anetra");
-let auraMayari = new Queen("Aura Mayari", 11, 11, 11, 11, 11, 11, 11, "AuraMayari");
+let auraMayari = new Queen("Aura Mayari", 11, 11, 11, 11, 11, 11, 15, "AuraMayari");
 let irene = new Queen("Irene Dubois", 8, 8, 8, 8, 8, 8, 8, "IreneDubois");
 let jax = new Queen("Jax", 8, 8, 8, 8, 8, 8, 8, "Jax");
 let loosey = new Queen("Loosey LaDuca", 8, 8, 8, 8, 8, 8, 8, "LooseyLaDuca");
